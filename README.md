@@ -1,4 +1,4 @@
-<img align="center" alt = "coding" width="1500" src="https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1686787200&v=beta&t=I0IJ74NlKU5vxNtF9VuMY5CpduZEoQSrL9homkI7oT8">
+<img align="center" alt = "coding" width="1500" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center">Hi 👋, I'm Harsha Walisundara</h1>
 <h3 align="center">A passionate Software Engineer from SriLanka</h3>
 <img align="right" alt = "coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
