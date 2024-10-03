@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshawalisundara&label=Profile%20views&color=0e75b6&style=flat" alt="harshawalisundara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshawalisundara" alt="harshawalisundara" /></a> </p>
 
 - 🌱 I’m currently learning **Qt , QML , C++ javascipt**
 
